@@ -1,7 +1,5 @@
 # Autologger Destroyer
-Autologger Destroyer disables almost all Windows Autologgers via the registry!
-
-<img width="978" height="512" alt="image" src="https://github.com/user-attachments/assets/df1f6817-b38e-4bf3-a374-2dc3ae5951e5" />
+QuakedK's script was forked for archive purposes
 
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Autologger-Destroyer/total)
 
