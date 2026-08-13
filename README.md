@@ -1,8 +1,6 @@
 # Autologger Destroyer
 QuakedK's script was forked for archive purposes
 
-![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Autologger-Destroyer/total)
-
 # #1 Usage
 Autologger Destroyer is required to be ran with Nsudo to delete some Autologgers without premission issues. Learn more here -> [Autologger Docs](https://github.com/QuakedK/Scripting-Station/blob/main/System%20Docs/Windows%20Autologgers.md#acess-denied)
 
